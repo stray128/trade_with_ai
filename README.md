@@ -1,2 +1,2 @@
 # trade_with_ai
-using various tarding strategies and algorithms for trading
+using various trading strategies and algorithms for trading
